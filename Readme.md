@@ -1,2 +1,2 @@
-Ola, esse e o meu primeiro projeto desafio!
-Isso é uma alteração!
+Ola, esse é o meu primeiro Projeto!
+É um desafio proposto pela Dio.
